@@ -1,2 +1,3 @@
-# demographic_data_analyzer
-certification project#2 for data analysis on freecodecamp
+# Demographic Data Analyzer
+
+This is the boilerplate for the Demographic Data Analyzer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
